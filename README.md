@@ -24,6 +24,7 @@
 - Erstellen der Flaggen aus Flaggenteilen und Blumenstäben
 - Bemalen von Details mit Acryllack
 - Verkleben der größeren Einheiten zu einer Burg
+- Nachbessern der Lackierungen an den Klebestellen
 - Plotten einer Schablone für die Bodenplatten mit Din A0 Plotter
 - Sägen der Bodenplatten mit Stichsäge im Fablab-Neckar-Alb
 - Abschleifen der Bodenplattenränder mit Sandpapier
