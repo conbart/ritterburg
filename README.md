@@ -31,6 +31,7 @@
 - Bemalen der Bodenplatten mit Acryllack
 - Löten und Basteln der Beleuchtungseinheit
 - Befestigen der Beleuchtungseinheit in der Burg mit Klettband
+- Kleben von Holzklötzen in die Türme um die Bodenplatte daran befestigen zu können
 - Befestigen der Burg und der Treppe an den Bodenplatten mit Holzschrauben
 
 www.fablab-neckar-alb.org
